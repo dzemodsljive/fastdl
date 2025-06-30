@@ -1,0 +1,2 @@
+maps/sj_cone_Click21.txt
+maps/sj_cone_Click21.res
